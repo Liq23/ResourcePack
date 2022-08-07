@@ -1,3 +1,4 @@
 1.png = AK-47
 
-da1.png = NTW-20
+da1 = NTW-20
+da2 = SCAR-L
